@@ -1,15 +1,17 @@
-## Nova 输入法
+<img src="https://raw.githubusercontent.com/nova-ime/nova-macos/nova/resources/brand/xingyu-512.png" width="96" alt="星语">
+
+## Nova 星语输入法
 
 整句盲打，一次打对；偶尔打错，按一两个键就能改。
 
-Nova 是一个本地运行的中文整句输入法。它在 [Rime](https://rime.im) 引擎上加了一个约 1 亿参数的 GPT-2 中文模型，结合你前面打过的字给整句打分。模型在本机运行，打字时不联网。
+Nova 星语是一个本地运行的中文整句输入法。它在 [Rime](https://rime.im) 引擎上加了一个约 1 亿参数的 GPT-2 中文模型，结合你前面打过的字给整句打分。模型在本机运行，打字时不联网。
 
 ### 下载
 
 | 系统 | 安装包 | 要求 |
 |---|---|---|
-| macOS | [Nova-1.0.0.pkg](https://github.com/nova-ime/nova-macos/releases/latest) | macOS 13+，Apple 芯片 |
-| Windows | [Nova-1.0.0-installer.exe](https://github.com/nova-ime/nova-windows/releases/latest) | Windows 10 / 11，64 位 |
+| macOS | [Nova-1.0.1.pkg](https://github.com/nova-ime/nova-macos/releases/latest) | macOS 13+，Apple 芯片 |
+| Windows | [Nova-1.0.1-installer.exe](https://github.com/nova-ime/nova-windows/releases/latest) | Windows 10 / 11，64 位 |
 
 支持全拼，以及自然码、小鹤、微软、搜狗四种双拼。安装时选打法，不用改配置文件。
 
