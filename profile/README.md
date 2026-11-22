@@ -11,7 +11,7 @@ Nova 星语是一个本地运行的中文整句输入法。它在 [Rime](https:/
 | 系统 | 安装包 | 要求 |
 |---|---|---|
 | macOS | [Nova-1.0.1.pkg](https://github.com/nova-ime/nova-macos/releases/latest) | macOS 13+，Apple 芯片 |
-| Windows | [Nova-1.0.1-installer.exe](https://github.com/nova-ime/nova-windows/releases/latest) | Windows 10 / 11，64 位 |
+| Windows | [Nova-1.0.2-installer.exe](https://github.com/nova-ime/nova-windows/releases/latest) | Windows 10 / 11，64 位 |
 
 支持全拼，以及自然码、小鹤、微软、搜狗四种双拼。安装时选打法，不用改配置文件。
 
