@@ -25,8 +25,8 @@
 
 | 系统 | 安装包 | 要求 |
 |---|---|---|
-| macOS | [Nova-1.0.3.pkg](https://github.com/nova-ime/nova-macos/releases/latest) | macOS 13+，Apple 芯片 |
-| Windows | [Nova-1.0.3-installer.exe](https://github.com/nova-ime/nova-windows/releases/latest) | Windows 10 / 11，64 位 |
+| macOS | [下载 macOS 版（.pkg）](https://github.com/nova-ime/nova-macos/releases/latest) | macOS 13+，Apple 芯片 |
+| Windows | [下载 Windows 版（.exe）](https://github.com/nova-ime/nova-windows/releases/latest) | Windows 10 / 11，64 位 |
 
 ### 成绩
 
